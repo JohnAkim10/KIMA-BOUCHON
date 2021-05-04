@@ -32,6 +32,7 @@
     <section>
 
     </section>
+    Contact et autres liens importants
     <footer>
     </footer>
 </body>
