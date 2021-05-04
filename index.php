@@ -7,7 +7,7 @@
     <title>Kima Bouchon</title>
 </head>
 <body>
-    Ici je présente le service en 2 phrases ou 3 max puis je met un bouton d'appel à l'action
+    Ici je présente le service en 2 phrases ou 3 max puis  je met un bouton d'appel à l'action
     <header>
 
     </header>
