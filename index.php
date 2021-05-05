@@ -7,11 +7,11 @@
     <title>Kima Bouchon</title>
 </head>
 <body>
-    Ici je présente le service en 2 phrases ou 3 max puis  je met un bouton d'appel à l'action
+    <!-- Ici je présente le service en 2 phrases ou 3 max puis  je met un bouton d'appel à l'action -->
     <header>
 
     </header>
-    Section qui est sensée afficher les services que l'entreprise offre et les tarifs avec des appels à l'action.
+    <!-- Section qui est sensée afficher les services que l'entreprise offre et les tarifs avec des appels à l'action. -->
     <section>
         <article>
             
@@ -32,7 +32,7 @@
     <section>
 
     </section>
-    Contact et autres liens importants
+    <!-- Contact et autres liens importants -->
     <footer>
     </footer>
 </body>
